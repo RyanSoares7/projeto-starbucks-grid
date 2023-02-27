@@ -4,3 +4,4 @@
 
 Neste projeto aprendi muito sobre o grid layout, como e quando utiliza-lo, fui fazendo o meu e depois corrigindo algumas partes com o professor.
 
+Veja o site no ar https://ryansoares7.github.io/projeto-starbucks-grid/
